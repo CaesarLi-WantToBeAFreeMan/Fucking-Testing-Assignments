@@ -20,5 +20,5 @@
 - [x] January 28, 2026/Interface Testing/`Postman`/[report](./January_28.md)
 - [x] January 29, 2026/Performance Testing/`Apache JMeter`/[report](./January_29.md)
 - [ ] January 30, 2026/UI Automated Testing/`Pytest`, `Selenium`/[report](./January_30.md)
-- [ ] January 31, 2026/Unit Testing/`JUnit5`/[report](./January_31.md)
+- [x] January 31, 2026/Unit Testing/`JUnit5`/[report](./January_31.md)
 - [ ] February 1, 2026/Functional Testing/` `/[report](./February_1.md)
