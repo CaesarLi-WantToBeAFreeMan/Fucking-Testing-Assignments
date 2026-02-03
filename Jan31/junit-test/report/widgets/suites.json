@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"e4af68db12e39acb1a8b13645dec8d2a","name":"com.neuedu.junit.test.question.DateUtilTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":27,"unknown":0,"total":27}},{"uid":"aeaa398402cb021aff229a1ce0b581fc","name":"com.neuedu.junit.test.question.PublishExamTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":14,"unknown":0,"total":14}}]}

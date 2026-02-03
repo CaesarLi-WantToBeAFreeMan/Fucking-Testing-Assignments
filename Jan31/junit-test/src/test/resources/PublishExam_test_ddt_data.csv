@@ -1,0 +1,8 @@
+name,startDateStr,endDateStr,expected
+Caesar,2026-02-01,2026-02-03,OK
+Caesar ,2026-02-01,2026-02-03,OK
+,2026-02-01,2026-02-03,参数不符合要求
+qwertyuiopasdfghjklzxcvbnm,2026-02-01,2026-02-03,考核名称不符合要求
+Caesar,,2026-02-01,参数不符合要求
+Caesar,20,2026-02-01,参数不符合要求
+Caesar,2026-02-03,2026-02-01,发布结束日期不符合要求
